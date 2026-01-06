@@ -1,4 +1,4 @@
-# CLIDaemonCLI-Daemon IPC Project
+CLI-Daemon IPC Project
 This is a C++ project that demonstrates Inter-Process Communication (IPC) using Windows Named Pipes. The system consists of a background daemon that stores data and a CLI tool that interacts with it.
 
 How it Works
